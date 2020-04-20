@@ -2,7 +2,7 @@ Breakdown,ttm,12/31/2019,12/31/2018,12/31/2017,12/31/2016
 Net Income,131616,131616,116758,110421,100892
 Depreciation & amortization,11270,11270,11825,10005,8057
 Change in working capital,-72301,-72301,107970,-224210,9878
-Other working capital,343957,326185,323485,267014,258929
+Other working capital,326185,326185,323485,267014,258929
 Other non-cash items,-32909,-32909,-37138,-42061,-44828
 Net cash provided by operating activites,329029,329029,326623,276130,309143
 Investments in property plant and equipment,-2844,-2844,-3138,-9116,-50214
@@ -11,7 +11,7 @@ Purchases of investments,-531536,-531536,-834671,-938964,-836059
 Sales/Maturities of investments,1172196,1172196,858774,1031106,638014
 Other investing activites,-,-,-,-,-62834
 Net cash used for investing activites,377874,377874,27929,54797,-309565
-Debt repayment,-,-75000,-,-,-
+Debt repayment,-75000,-75000,-,-,-
 Common stock issued,-,-,-,-,0
 Dividends Paid,-1273,-1273,-1273,-1273,-1273
 Other financing activites,-584744,-584744,-440641,-163262,-52814
@@ -21,4 +21,4 @@ Cash at beginning of period,131976,131976,217624,51247,106007
 Cash at end of period,253525,253525,131976,217624,51247
 Operating Cash Flow,329029,329029,326623,276130,309143
 Capital Expenditure,-2844,-2844,-3138,-9116,-50214
-Free Cash Flow,343957,326185,323485,267014,258929
+Free Cash Flow,326185,326185,323485,267014,258929

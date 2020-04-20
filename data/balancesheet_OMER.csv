@@ -1,5 +1,9 @@
 Breakdown,12/31/2019,12/31/2018,12/31/2017,12/31/2016
 Current Assets,,,,
+Cash,,,,
+Cash And Cash Equivalents,3084,5861,3394,2224
+Other Short Term Investments,57704,54637,80355,43107
+Total Cash,60788,60498,83749,45331
 Net Receivables,35074,22654,17079,11937
 Inventory,1147,88,443,1128
 Total Current Assets,103745,89867,108372,60262
@@ -15,6 +19,7 @@ Total Assets,136969,95936,116328,67278
 Liabilities,,,,
 Current Liabilities,,,,
 Accounts Payable,5328,6281,6691,2519
+Accrued liabilities,43081,27472,16948,8803
 Total Current Liabilities,55459,37356,26307,16071
 Non-current liabilities,,,,
 Long Term Debt,158213,148981,83307,79188

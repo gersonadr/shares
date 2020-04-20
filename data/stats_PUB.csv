@@ -13,12 +13,12 @@ Beta (5Y Monthly),0.88
 S&P500 52-Week Change 3,-1.15%
 52 Week High 3,31.34
 52 Week Low 3,13.55
-50-Day Moving Average 3,19.15
-200-Day Moving Average 3,26.41
+50-Day Moving Average 3,19.01
+200-Day Moving Average 3,26.40
 Avg Vol (3 month) 3,42.19k
-Avg Vol (10 day) 3,39k
+Avg Vol (10 day) 3,38.57k
 Shares Outstanding 5,18.79M
-Float,15.79M
+Float,15.8M
 % Held by Insiders 1,30.48%
 % Held by Institutions 1,60.59%
 "Shares Short (Mar 30, 2020) 4",80.64k
@@ -34,8 +34,8 @@ Trailing Annual Dividend Yield 3,3.20%
 Payout Ratio 4,21.03%
 Dividend Date 3,"Feb 17, 2020"
 Ex-Dividend Date 4,"Feb 06, 2020"
-Last Split Factor 2,
-Last Split Date 3,
+Last Split Factor 2,20:1
+Last Split Date 3,"Oct 12, 2014"
 Fiscal Year Ends,"Dec 30, 2019"
 Most Recent Quarter (mrq),"Dec 30, 2019"
 Profit Margin,37.53%

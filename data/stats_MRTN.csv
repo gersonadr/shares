@@ -1,26 +1,26 @@
 Attribute,Value
 Market Cap (intraday) 5,1.25B
-Enterprise Value 3,1.13B
+Enterprise Value 3,1.21B
 Trailing P/E,20.53
 Forward P/E 1,18.83
 PEG Ratio (5 yr expected) 1,1.97
 Price/Sales (ttm),1.45
 Price/Book (mrq),2.05
-Enterprise Value/Revenue 3,1.31
-Enterprise Value/EBITDA 6,6.88
-Beta (5Y Monthly),
-52-Week Change 3,4.47%
-S&P500 52-Week Change 3,-3.73%
+Enterprise Value/Revenue 3,1.41
+Enterprise Value/EBITDA 6,7.38
+Beta (5Y Monthly),1.02
+52-Week Change 3,11.94%
+S&P500 52-Week Change 3,-1.15%
 52 Week High 3,23.39
 52 Week Low 3,16.01
-50-Day Moving Average 3,19.86
-200-Day Moving Average 3,21.04
-Avg Vol (3 month) 3,250.27k
-Avg Vol (10 day) 3,271.51k
+50-Day Moving Average 3,19.94
+200-Day Moving Average 3,21.06
+Avg Vol (3 month) 3,257.64k
+Avg Vol (10 day) 3,290.6k
 Shares Outstanding 5,54.84M
 Float,39.08M
 % Held by Insiders 1,29.14%
-% Held by Institutions 1,72.07%
+% Held by Institutions 1,72.36%
 "Shares Short (Mar 30, 2020) 4",1.23M
 "Short Ratio (Mar 30, 2020) 4",3.9
 "Short % of Float (Mar 30, 2020) 4",5.04%
@@ -43,7 +43,7 @@ Operating Margin (ttm),7.89%
 Return on Assets (ttm),5.32%
 Return on Equity (ttm),10.23%
 Revenue (ttm),862.89M
-Revenue Per Share (ttm),15.75
+Revenue Per Share (ttm),15.78
 Quarterly Revenue Growth (yoy),9.90%
 Gross Profit (ttm),234.38M
 EBITDA,164.49M

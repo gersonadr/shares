@@ -1,6 +1,6 @@
 Attribute,Value
 Market Cap (intraday) 5,60.12M
-Enterprise Value 3,57.01M
+Enterprise Value 3,60.12M
 Trailing P/E,
 Forward P/E 1,-1.24
 PEG Ratio (5 yr expected) 1,
@@ -9,14 +9,14 @@ Price/Book (mrq),
 Enterprise Value/Revenue 3,
 Enterprise Value/EBITDA 6,
 Beta (5Y Monthly),
-52-Week Change 3,-93.40%
-S&P500 52-Week Change 3,-1.15%
+52-Week Change 3,∞%
+S&P500 52-Week Change 3,-3.73%
 52 Week High 3,13.2200
 52 Week Low 3,0.4660
-50-Day Moving Average 3,0.8474
-200-Day Moving Average 3,2.3278
+50-Day Moving Average 3,0.8306
+200-Day Moving Average 3,2.3092
 Avg Vol (3 month) 3,1.42M
-Avg Vol (10 day) 3,628.66k
+Avg Vol (10 day) 3,602.65k
 Shares Outstanding 5,106.29M
 Float,75.03M
 % Held by Insiders 1,32.99%

@@ -1,1 +1,41 @@
-
+Breakdown,12/31/2019,12/31/2018,12/31/2017,12/31/2016
+Current Assets,,,,
+Cash,,,,
+Cash And Cash Equivalents,1454531,1149113,986605,517250
+Other Short Term Investments,-,-,-,0
+Total Cash,1454531,1149113,986605,517250
+Net Receivables,467953,470570,517436,992153
+Inventory,327865,322179,391437,555671
+Other Current Assets,88412,95920,55146,125326
+Total Current Assets,2586218,2343150,2271077,2589459
+Non-current assets,,,,
+Property plant and equipment,,,,
+Gross property plant and equipment,873639,761435,928254,879000
+Accumulated Depreciation,-317074,-262543,-404283,-209404
+Net property plant and equipment,556565,498892,523971,669596
+Equity and other investments,-,738,1456,2267
+Goodwill,3595184,3764636,4450082,4729395
+Intangible Assets,2571267,3457306,4317684,5859297
+Other long-term assets,78101,66993,59728,417278
+Total non-current assets,6803309,7789243,9364503,11685650
+Total Assets,9389527,10132393,11635580,14275109
+Liabilities,,,,
+Current Liabilities,,,,
+Current Debt,34150,34150,34205,131125
+Accounts Payable,101532,96024,85348,126712
+Taxes payable,2422,1661,2086,9266
+Accrued liabilities,1311422,1818261,2099270,2343304
+Other Current Liabilities,47335,35811,36291,24338
+Total Current Liabilities,1460289,1950096,2220909,2634745
+Non-current liabilities,,,,
+Long Term Debt,8359899,8224269,8242032,8141378
+Deferred taxes liabilities,31703,34487,43131,192297
+Other long-term liabilities,355881,421824,434178,605100
+Total non-current liabilities,8795782,8680580,8929791,8938775
+Total Liabilities,10256071,10630676,11150700,11573520
+Stockholders' Equity,,,,
+Common Stock,23,22,22,22
+Retained Earnings,-9552214,-9124932,-8096539,-5688281
+Accumulated other comprehensive income,-219090,-229229,-209821,-353434
+Total stockholders' equity,-866544,-498283,484880,2701589
+Total liabilities and stockholders' equity,9389527,10132393,11635580,14275109

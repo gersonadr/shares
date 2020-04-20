@@ -1,22 +1,22 @@
 Attribute,Value
 Market Cap (intraday) 5,32.95M
-Enterprise Value 3,31.28M
+Enterprise Value 3,28.65M
 Trailing P/E,
 Forward P/E 1,
 PEG Ratio (5 yr expected) 1,
 Price/Sales (ttm),
 Price/Book (mrq),1.32
 Enterprise Value/Revenue 3,
-Enterprise Value/EBITDA 6,-8.42
+Enterprise Value/EBITDA 6,-7.71
 Beta (5Y Monthly),-0.12
-52-Week Change 3,68.75%
-S&P500 52-Week Change 3,-3.73%
+52-Week Change 3,56.25%
+S&P500 52-Week Change 3,-1.15%
 52 Week High 3,0.0430
 52 Week Low 3,0.0080
-50-Day Moving Average 3,0.0214
+50-Day Moving Average 3,0.0211
 200-Day Moving Average 3,0.0194
-Avg Vol (3 month) 3,5.1M
-Avg Vol (10 day) 3,1.74M
+Avg Vol (3 month) 3,5.06M
+Avg Vol (10 day) 3,1.83M
 Shares Outstanding 5,1.32B
 Float,587.97M
 % Held by Insiders 1,
@@ -34,8 +34,8 @@ Trailing Annual Dividend Yield 3,
 Payout Ratio 4,0.00%
 Dividend Date 3,
 Ex-Dividend Date 4,
-Last Split Factor 2,
-Last Split Date 3,
+Last Split Factor 2,1:1
+Last Split Date 3,"Jun 17, 2009"
 Fiscal Year Ends,"Dec 31, 2019"
 Most Recent Quarter (mrq),"Dec 31, 2019"
 Profit Margin,0.00%

@@ -3,10 +3,10 @@ Current Assets,,,,
 Cash,,,,
 Cash And Cash Equivalents,31703,17988,224446,14405
 Total Cash,31703,17988,224446,14405
-Net Receivables,-,133421,108446,139547
+Net Receivables,131558,133421,108446,139547
 Inventory,118722,122615,82617,114851
 Other Current Assets,15024,21901,18518,11752
-Total Current Assets,-,296871,477280,280555
+Total Current Assets,302980,296871,477280,280555
 Non-current assets,,,,
 Property plant and equipment,,,,
 Gross property plant and equipment,617988,506306,371649,581509
@@ -23,8 +23,8 @@ Current Liabilities,,,,
 Current Debt,19160,31280,17283,12751
 Accounts Payable,57340,65694,52990,75719
 Taxes payable,1028,-,-,2125
-Accrued liabilities,-,24636,21145,24996
-Other Current Liabilities,-,23420,17003,19263
+Accrued liabilities,30428,24636,21145,24996
+Other Current Liabilities,24873,23420,17003,19263
 Total Current Liabilities,139481,145030,108421,138616
 Non-current liabilities,,,,
 Long Term Debt,757440,811471,790805,785713
@@ -35,6 +35,6 @@ Total Liabilities,1188707,1083275,988899,1045187
 Stockholders' Equity,,,,
 Common Stock,423,421,275,272
 Retained Earnings,-105283,-62046,211080,55509
-Accumulated other comprehensive income,-,-31625,-17745,-25122
-Total stockholders' equity,-,418295,486104,315167
+Accumulated other comprehensive income,-44554,-31625,-17745,-25122
+Total stockholders' equity,353277,418295,486104,315167
 Total liabilities and stockholders' equity,1541984,1501570,1475003,1360386

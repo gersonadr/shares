@@ -10,13 +10,13 @@ Enterprise Value/Revenue 3,
 Enterprise Value/EBITDA 6,-1.66
 Beta (5Y Monthly),1.27
 52-Week Change 3,-32.00%
-S&P500 52-Week Change 3,-3.73%
+S&P500 52-Week Change 3,-1.15%
 52 Week High 3,0.0860
 52 Week Low 3,0.0130
-50-Day Moving Average 3,0.0193
-200-Day Moving Average 3,0.0388
-Avg Vol (3 month) 3,395.59k
-Avg Vol (10 day) 3,416.75k
+50-Day Moving Average 3,0.0185
+200-Day Moving Average 3,0.0384
+Avg Vol (3 month) 3,394.84k
+Avg Vol (10 day) 3,130.41k
 Shares Outstanding 5,312.06M
 Float,180.49M
 % Held by Insiders 1,
@@ -34,8 +34,8 @@ Trailing Annual Dividend Yield 3,
 Payout Ratio 4,0.00%
 Dividend Date 3,
 Ex-Dividend Date 4,
-Last Split Factor 2,1:25
-Last Split Date 3,"Aug 06, 2019"
+Last Split Factor 2,
+Last Split Date 3,
 Fiscal Year Ends,"Jun 30, 2019"
 Most Recent Quarter (mrq),"Dec 31, 2019"
 Profit Margin,0.00%

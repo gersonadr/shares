@@ -1,7 +1,7 @@
 Breakdown,ttm,6/30/2019,6/30/2018,6/30/2017,6/30/2016
 Total Revenue,-,-,-,0,0
 Selling General and Administrative,8421,8325,3775,4054,3614
-Total Operating Expenses,-,9991,5979,17052,8410
+Total Operating Expenses,10977,9991,5979,17052,8410
 Operating Income or Loss,-10977,-9991,-5979,-17052,-8410
 Total Other Income/Expenses Net,828,569,6774,-21808,-856
 Income Before Tax,-8669,-8021,1425,-36977,-5367
@@ -12,3 +12,4 @@ Net Income available to common shareholders,-8669,-8021,1425,-36977,-5367
 Basic EPS,-,-0.01,0.00,-0.04,-0.01
 Diluted EPS,-,-0.01,0.00,-0.04,-0.01
 Basic Average Shares,-,1253676,1052523,1021217,1005716
+Diluted Average Shares,-,1253676,1052523,1021217,1005716

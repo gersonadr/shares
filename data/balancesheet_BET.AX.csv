@@ -1,4 +1,10 @@
 Breakdown,6/30/2019,6/30/2018,6/30/2017,6/30/2016
+Current Assets,,,,
+Cash,,,,
+Cash And Cash Equivalents,453.104,1457,3267,2436
+Total Cash,453.104,1457,3267,2436
+Net Receivables,423.734,184.098,262.969,40.2
+Total Current Assets,1777,6970,5302,3724
 Non-current assets,,,,
 Property plant and equipment,,,,
 Gross property plant and equipment,658.755,637.401,586.999,307.955
@@ -10,6 +16,10 @@ Intangible Assets,7172,1285,1043,-
 Total non-current assets,28828,8952,9828,6965
 Total Assets,30605,15922,15130,10689
 Liabilities,,,,
+Current Liabilities,,,,
+Accounts Payable,503.709,1568,581.209,738.999
+Deferred revenues,-,-,0.2,18.045
+Total Current Liabilities,7365,3101,6030,2303
 Non-current liabilities,,,,
 Other long-term liabilities,4000,-,-,-
 Total non-current liabilities,4084,89.302,59.478,43.163

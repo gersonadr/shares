@@ -1,6 +1,6 @@
 Attribute,Value
 Market Cap (intraday) 5,1.75B
-Enterprise Value 3,1.72B
+Enterprise Value 3,1.75B
 Trailing P/E,20.12
 Forward P/E 1,26.12
 PEG Ratio (5 yr expected) 1,28.27
@@ -13,12 +13,12 @@ Beta (5Y Monthly),0.23
 S&P500 52-Week Change 3,-1.15%
 52 Week High 3,16.81
 52 Week Low 3,6.31
-50-Day Moving Average 3,14.03
-200-Day Moving Average 3,10.29
+50-Day Moving Average 3,14.01
+200-Day Moving Average 3,10.31
 Avg Vol (3 month) 3,847.02k
-Avg Vol (10 day) 3,590k
+Avg Vol (10 day) 3,543.58k
 Shares Outstanding 5,113.33M
-Float,70.57M
+Float,74.24M
 % Held by Insiders 1,1.70%
 % Held by Institutions 1,48.72%
 "Shares Short (Mar 30, 2020) 4",765.7k

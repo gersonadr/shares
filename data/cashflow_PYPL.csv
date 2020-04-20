@@ -1,28 +1,28 @@
-Breakdown,ttm,12/31/2019,12/31/2018,12/31/2017,12/31/2016
-Net Income,2459000,2459000,2057000,1795000,1401000
-Depreciation & amortization,912000,912000,776000,805000,724000
-Deferred income taxes,-269000,-269000,-171000,-1299000,52000
-Stock based compensation,1021000,1021000,853000,733000,438000
-Change in working capital,-585000,-585000,622000,-581000,-481000
-Accounts receivable,-129000,-129000,-59000,12000,-77000
-Accounts Payable,503000,503000,26000,62000,11000
-Other working capital,3857000,3857000,4660000,1864000,2489000
-Other non-cash items,1230000,1230000,1346000,1103000,1088000
-Net cash provided by operating activites,4561000,4561000,5483000,2531000,3158000
-Investments in property plant and equipment,-704000,-704000,-823000,-667000,-669000
-Acquisitions net,-70000,-70000,-,-323000,-19000
-Purchases of investments,-27881000,-27881000,-22381000,-19418000,-21041000
-Sales/Maturities of investments,24878000,24878000,21898000,18450000,18429000
-Other investing activites,-1973000,-1973000,4267000,-3400000,-1699000
-Net cash used for investing activites,-5733000,-5733000,840000,-5358000,-4999000
-Debt repayment,-2516000,-2516000,-1115000,-,-21000
-Common stock issued,138000,138000,144000,144000,109000
-Common stock repurchased,-1411000,-1411000,-3520000,-1006000,-995000
-Other financing activites,2006000,2006000,1154000,4126000,2945000
-Net cash used privided by (used for) financing activities,3688000,3688000,-1262000,4084000,2038000
-Net change in cash,2510000,2510000,4948000,1293000,197000
-Cash at beginning of period,13233000,13233000,8285000,1590000,1393000
-Cash at end of period,15743000,15743000,13233000,2883000,1590000
-Operating Cash Flow,4561000,4561000,5483000,2531000,3158000
-Capital Expenditure,-704000,-704000,-823000,-667000,-669000
-Free Cash Flow,3857000,3857000,4660000,1864000,2489000
+Breakdown,ttm,12/31/2017,12/31/2016
+Net Income,-,1795000,1401000
+Depreciation & amortization,-,805000,724000
+Deferred income taxes,-,-1299000,52000
+Stock based compensation,-,733000,438000
+Change in working capital,-,-581000,-481000
+Accounts receivable,-,12000,-77000
+Accounts Payable,-,62000,11000
+Other working capital,-,1864000,2489000
+Other non-cash items,-,1103000,1088000
+Net cash provided by operating activites,-,2531000,3158000
+Investments in property plant and equipment,-,-667000,-669000
+Acquisitions net,-,-323000,-19000
+Purchases of investments,-,-19418000,-21041000
+Sales/Maturities of investments,-,18450000,18429000
+Other investing activites,-,-3400000,-1699000
+Net cash used for investing activites,-,-5358000,-4999000
+Debt repayment,-,-,-21000
+Common stock issued,-,144000,109000
+Common stock repurchased,-,-1006000,-995000
+Other financing activites,-,4126000,2945000
+Net cash used privided by (used for) financing activities,-,4084000,2038000
+Net change in cash,-,1293000,197000
+Cash at beginning of period,-,1590000,1393000
+Cash at end of period,-,2883000,1590000
+Operating Cash Flow,-,2531000,3158000
+Capital Expenditure,-,-667000,-669000
+Free Cash Flow,-,1864000,2489000

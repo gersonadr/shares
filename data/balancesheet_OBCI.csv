@@ -4,6 +4,7 @@ Cash,,,,
 Cash And Cash Equivalents,6125,1401,2418,4070
 Total Cash,6125,1401,2418,4070
 Net Receivables,7132,5659,4964,4932
+Inventory,9555,12086,9074,8601
 Other Current Assets,-,-,-,0
 Total Current Assets,26645,23535,21802,19807
 Non-current assets,,,,
@@ -12,6 +13,7 @@ Gross property plant and equipment,23448,23070,21711,16472
 Accumulated Depreciation,-13757,-13420,-12419,-11576
 Net property plant and equipment,9690,9649,9292,4896
 Intangible Assets,1950,2050,897.408,967.688
+Other long-term assets,-,-,-,0
 Total non-current assets,11640,11699,10189,5864
 Total Assets,38286,35235,31991,25671
 Liabilities,,,,
@@ -22,6 +24,11 @@ Taxes payable,-,-,0,1.447
 Accrued liabilities,1215,1109,812.062,1100
 Other Current Liabilities,-,-,-,0
 Total Current Liabilities,2829,3007,2859,2892
+Non-current liabilities,,,,
+Long Term Debt,4131,4503,4051,0
+Deferred taxes liabilities,311.374,280.349,153.895,213.367
+Other long-term liabilities,-,-,-,0
+Total non-current liabilities,4722,4794,4236,263.793
 Total Liabilities,7552,7801,7095,3156
 Stockholders' Equity,,,,
 Common Stock,94.428,93.382,92.546,91.469

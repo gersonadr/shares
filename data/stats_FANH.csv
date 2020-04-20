@@ -1,7 +1,7 @@
 Attribute,Value
 Market Cap (intraday) 5,1.39B
 Enterprise Value 3,1.07B
-Trailing P/E,
+Trailing P/E,13.61
 Forward P/E 1,17.48
 PEG Ratio (5 yr expected) 1,2.57
 Price/Sales (ttm),
@@ -13,10 +13,10 @@ Beta (5Y Monthly),1.27
 S&P500 52-Week Change 3,-3.73%
 52 Week High 3,35.55
 52 Week Low 3,16.19
-50-Day Moving Average 3,19.66
-200-Day Moving Average 3,23.80
-Avg Vol (3 month) 3,286.52k
-Avg Vol (10 day) 3,211.07k
+50-Day Moving Average 3,19.62
+200-Day Moving Average 3,23.73
+Avg Vol (3 month) 3,290.07k
+Avg Vol (10 day) 3,234.22k
 Shares Outstanding 5,69.62M
 Float,26.65M
 % Held by Insiders 1,4.45%
@@ -28,8 +28,8 @@ Float,26.65M
 "Shares Short (prior month Feb 27, 2020) 4",5.74M
 Forward Annual Dividend Rate 4,1.2
 Forward Annual Dividend Yield 4,6.14%
-Trailing Annual Dividend Rate 3,
-Trailing Annual Dividend Yield 3,
+Trailing Annual Dividend Rate 3,0.98
+Trailing Annual Dividend Yield 3,4.99%
 5 Year Average Dividend Yield 4,
 Payout Ratio 4,235.38%
 Dividend Date 3,"Apr 15, 2020"

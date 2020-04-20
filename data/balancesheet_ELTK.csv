@@ -1,1 +1,36 @@
-
+Breakdown,12/31/2018,12/31/2017,12/31/2016
+Current Assets,,,
+Cash,,,
+Cash And Cash Equivalents,992,887,1234
+Total Cash,992,887,1234
+Net Receivables,5682,6963,5704
+Inventory,3611,3871,3926
+Other Current Assets,-,-,0
+Total Current Assets,11445,13502,11320
+Non-current assets,,,
+Property plant and equipment,,,
+Gross property plant and equipment,41989,46268,41155
+Accumulated Depreciation,-35366,-37682,-32702
+Net property plant and equipment,6623,8586,8453
+Intangible Assets,-,-,322
+Other long-term assets,53,57,50
+Total non-current assets,6715,8643,8825
+Total Assets,18160,22145,20145
+Liabilities,,,
+Current Liabilities,,,
+Current Debt,9274,8505,2868
+Accounts Payable,4108,5451,4727
+Accrued liabilities,1396,1583,1435
+Other Current Liabilities,475,670,552
+Total Current Liabilities,16759,18067,11413
+Non-current liabilities,,,
+Long Term Debt,308,388,1954
+Other long-term liabilities,-,-,0
+Total non-current liabilities,519,619,2098
+Total Liabilities,17278,18686,13511
+Stockholders' Equity,,,
+Common Stock,1985,1985,1985
+Retained Earnings,-21513,-18906,-15131
+Accumulated other comprehensive income,3140,3110,2510
+Total stockholders' equity,882,3459,6634
+Total liabilities and stockholders' equity,18160,22145,20145

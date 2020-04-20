@@ -1,24 +1,24 @@
 Attribute,Value
 Market Cap (intraday) 5,6.99M
-Enterprise Value 3,
+Enterprise Value 3,5.29M
 Trailing P/E,
 Forward P/E 1,
 PEG Ratio (5 yr expected) 1,
 Price/Sales (ttm),∞
-Price/Book (mrq),
+Price/Book (mrq),3.90
 Enterprise Value/Revenue 3,
 Enterprise Value/EBITDA 6,
 Beta (5Y Monthly),0.48
-52-Week Change 3,
-S&P500 52-Week Change 3,
-52 Week High 3,0.039
-52 Week Low 3,0.013
-50-Day Moving Average 3,0.0233
-200-Day Moving Average 3,0.0236
-Avg Vol (3 month) 3,150.67k
-Avg Vol (10 day) 3,331.39k
-Shares Outstanding 5,
-Float,
+52-Week Change 3,116.67%
+S&P500 52-Week Change 3,-1.15%
+52 Week High 3,0.0390
+52 Week Low 3,0.0130
+50-Day Moving Average 3,0.0235
+200-Day Moving Average 3,0.0237
+Avg Vol (3 month) 3,148.68k
+Avg Vol (10 day) 3,294.76k
+Shares Outstanding 5,179.29M
+Float,59.9M
 % Held by Insiders 1,
 % Held by Institutions 1,
 Shares Short 4,
@@ -36,25 +36,25 @@ Dividend Date 3,
 Ex-Dividend Date 4,
 Last Split Factor 2,
 Last Split Date 3,
-Fiscal Year Ends,
-Most Recent Quarter (mrq),
-Profit Margin,
-Operating Margin (ttm),
-Return on Assets (ttm),
-Return on Equity (ttm),
+Fiscal Year Ends,"Jun 30, 2019"
+Most Recent Quarter (mrq),"Dec 31, 2019"
+Profit Margin,0.00%
+Operating Margin (ttm),0.00%
+Return on Assets (ttm),-27.12%
+Return on Equity (ttm),-41.56%
 Revenue (ttm),
-Revenue Per Share (ttm),
+Revenue Per Share (ttm),0.00
 Quarterly Revenue Growth (yoy),
-Gross Profit (ttm),
+Gross Profit (ttm),357
 EBITDA,
-Net Income Avi to Common (ttm),
-Diluted EPS (ttm),
+Net Income Avi to Common (ttm),-912.57k
+Diluted EPS (ttm),-0.0050
 Quarterly Earnings Growth (yoy),
-Total Cash (mrq),
-Total Cash Per Share (mrq),
+Total Cash (mrq),1.7M
+Total Cash Per Share (mrq),0.01
 Total Debt (mrq),
 Total Debt/Equity (mrq),
-Current Ratio (mrq),
-Book Value Per Share (mrq),
-Operating Cash Flow (ttm),
-Levered Free Cash Flow (ttm),
+Current Ratio (mrq),19.50
+Book Value Per Share (mrq),0.01
+Operating Cash Flow (ttm),-715.62k
+Levered Free Cash Flow (ttm),-81.71k

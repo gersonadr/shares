@@ -5,7 +5,7 @@ Trailing P/E,4.60
 Forward P/E 1,
 PEG Ratio (5 yr expected) 1,
 Price/Sales (ttm),
-Price/Book (mrq),61.02
+Price/Book (mrq),
 Enterprise Value/Revenue 3,
 Enterprise Value/EBITDA 6,
 Beta (5Y Monthly),1.07
@@ -13,10 +13,10 @@ Beta (5Y Monthly),1.07
 S&P500 52-Week Change 3,-1.15%
 52 Week High 3,144.00
 52 Week Low 3,70.00
-50-Day Moving Average 3,88.29
-200-Day Moving Average 3,112.34
+50-Day Moving Average 3,87.67
+200-Day Moving Average 3,112.30
 Avg Vol (3 month) 3,28.86k
-Avg Vol (10 day) 3,23.98k
+Avg Vol (10 day) 3,19.48k
 Shares Outstanding 5,388.48M
 Float,353.83M
 % Held by Insiders 1,
@@ -48,13 +48,13 @@ Quarterly Revenue Growth (yoy),1.40%
 Gross Profit (ttm),517.29M
 EBITDA,
 Net Income Avi to Common (ttm),
-Diluted EPS (ttm),17.40
+Diluted EPS (ttm),
 Quarterly Earnings Growth (yoy),11.90%
 Total Cash (mrq),
 Total Cash Per Share (mrq),
 Total Debt (mrq),
 Total Debt/Equity (mrq),83.07
 Current Ratio (mrq),1.02
-Book Value Per Share (mrq),1.31
+Book Value Per Share (mrq),
 Operating Cash Flow (ttm),
 Levered Free Cash Flow (ttm),

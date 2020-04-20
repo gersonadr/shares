@@ -7,7 +7,30 @@ Total Cash,14631,11198,19215,31361
 Net Receivables,8045,7030,7431,13416
 Other Current Assets,-,-,2561,1184
 Total Current Assets,30824,29382,37488,51513
+Non-current assets,,,,
+Property plant and equipment,,,,
+Gross property plant and equipment,903106,814851,760800,731390
+Accumulated Depreciation,-80410,-57741,-37251,-19974
+Net property plant and equipment,822696,757110,723549,711416
+Equity and other investments,1620,1620,1500,1500
+Goodwill,817074,817074,817074,715315
+Intangible Assets,222575,218714,218916,218841
+Other long-term assets,-,-,0,0
+Total non-current assets,1863965,1794518,1761039,1647072
 Total Assets,1894789,1823900,1798527,1698585
+Liabilities,,,,
+Current Liabilities,,,,
+Current Debt,-,-,264,-
+Accounts Payable,12865,14734,9760,3233
+Deferred revenues,-,25,24,41
+Other Current Liabilities,806337,792879,731515,737836
+Total Current Liabilities,895999,875396,803840,820303
+Non-current liabilities,,,,
+Long Term Debt,125000,75000,121250,253500
+Deferred taxes liabilities,107775,107610,108765,29635
+Other long-term liabilities,-,-,3556,3466
+Total non-current liabilities,237283,186940,233571,286601
+Total Liabilities,1133282,1062336,1037411,1106904
 Stockholders' Equity,,,,
 Common Stock,801843,801836,801830,649163
 Retained Earnings,-42130,-41408,-41387,-57997

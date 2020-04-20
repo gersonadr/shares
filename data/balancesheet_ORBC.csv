@@ -3,9 +3,14 @@ Current Assets,,,,
 Cash,,,,
 Cash And Cash Equivalents,54258,53766,34830,25023
 Total Cash,54258,53766,34830,25023
+Net Receivables,60595,57665,46900,31937
 Inventory,39881,34300,42437,23217
 Total Current Assets,172737,161284,142859,88208
 Non-current assets,,,,
+Property plant and equipment,,,,
+Gross property plant and equipment,310594,287725,265739,286434
+Accumulated Depreciation,-165041,-127655,-91561,-70593
+Net property plant and equipment,145553,160070,174178,215841
 Goodwill,166129,166129,166678,114033
 Intangible Assets,73280,86264,99339,82545
 Other long-term assets,23149,12603,12036,5447

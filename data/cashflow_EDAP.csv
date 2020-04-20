@@ -1,25 +1,26 @@
 Breakdown,ttm,12/31/2019,12/31/2018,12/31/2017,12/31/2016
-Net Income,1691,1691,-338,-681,3842
-Depreciation & amortization,-,-,1610,1573,1025
-Deferred income taxes,-,-,-153,-153,65
-Stock based compensation,-,-,289,382,360
-Change in working capital,-,-,-1272,-1691,-287
-Inventory,-,-,-704,669,-1985
-Accounts Payable,-,-,-70,426,-153
-Other working capital,-,-,-867,-4143,647
-Other non-cash items,-,-,-,382,360
-Net cash provided by operating activites,-,-,175,-3059,1119
-Investments in property plant and equipment,-,-,-1042,-1084,-472
+Net Income,1512,1512,-338,-681,3842
+Depreciation & amortization,1879,1879,1610,1573,1025
+Deferred income taxes,-106,-106,-153,-153,65
+Stock based compensation,260,260,289,382,360
+Change in working capital,8,8,-1272,-1691,-287
+Inventory,-1036,-1036,-704,669,-1985
+Accounts Payable,-249,-249,-70,426,-153
+Other working capital,3369,3369,-867,-4143,647
+Other non-cash items,-2,-2,-,382,360
+Net cash provided by operating activites,3800,3800,175,-3059,1119
+Investments in property plant and equipment,-431,-431,-1042,-1084,-472
+Purchases of investments,-14,-14,-,-,-
 Sales/Maturities of investments,-,-,0,0,1000
-Other investing activites,-,-,-886,-1033,-912
-Net cash used for investing activites,-,-,-1569,-2032,-384
-Debt repayment,-,-,-801,-540,-1675
+Other investing activites,-1087,-1087,-886,-1033,-912
+Net cash used for investing activites,-1532,-1532,-1569,-2032,-384
+Debt repayment,-1662,-1662,-801,-540,-1675
 Common stock issued,-,-,0,548,6200
 Other financing activites,-,-,1,-,1
-Net cash used privided by (used for) financing activities,-,-,1177,2871,7693
-Net change in cash,-,-,-539,-1985,8410
-Cash at beginning of period,-,-,20004,21989,13578
-Cash at end of period,-,-,19464,20004,21989
-Operating Cash Flow,-,-,175,-3059,1119
-Capital Expenditure,-,-,-1042,-1084,-472
-Free Cash Flow,-,-,-867,-4143,647
+Net cash used privided by (used for) financing activities,-664,-664,1177,2871,7693
+Net change in cash,1422,1422,-539,-1985,8410
+Cash at beginning of period,19464,19464,20004,21989,13578
+Cash at end of period,20886,20886,19464,20004,21989
+Operating Cash Flow,3800,3800,175,-3059,1119
+Capital Expenditure,-431,-431,-1042,-1084,-472
+Free Cash Flow,3369,3369,-867,-4143,647

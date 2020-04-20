@@ -22,7 +22,7 @@ Current Liabilities,,,,
 Current Debt,-,1107000,751000,421000
 Accounts Payable,944000,999000,1146000,973000
 Accrued liabilities,815000,1219000,747000,712000
-Other Current Liabilities,847000,60000,74000,327000
+Other Current Liabilities,32000,60000,74000,327000
 Total Current Liabilities,1791000,3385000,2718000,2433000
 Non-current liabilities,,,,
 Long Term Debt,7365000,6247000,5814000,8766000
@@ -33,6 +33,6 @@ Total Liabilities,10361000,10840000,10333000,13742000
 Stockholders' Equity,,,,
 Common Stock,64000,67000,71000,71000
 Retained Earnings,-2845000,-1907000,-2339000,-3934000
-Accumulated other comprehensive income,-,123000,177000,34000
+Accumulated other comprehensive income,75000,123000,177000,34000
 Total stockholders' equity,9441000,10505000,13527000,10935000
 Total liabilities and stockholders' equity,20016000,21530000,24049000,24898000

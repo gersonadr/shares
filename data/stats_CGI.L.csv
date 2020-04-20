@@ -1,7 +1,7 @@
 Attribute,Value
 Market Cap (intraday) 5,403.57M
 Enterprise Value 3,
-Trailing P/E,
+Trailing P/E,2.12
 Forward P/E 1,
 PEG Ratio (5 yr expected) 1,
 Price/Sales (ttm),
@@ -12,9 +12,9 @@ Beta (5Y Monthly),
 52-Week Change 3,
 S&P500 52-Week Change 3,
 52 Week High 3,1060.0
-52 Week Low 3,36.19
+52 Week Low 3,997.5
 50-Day Moving Average 3,997.5
-200-Day Moving Average 3,990.48
+200-Day Moving Average 3,997.5
 Avg Vol (3 month) 3,
 Avg Vol (10 day) 3,
 Shares Outstanding 5,
@@ -28,8 +28,8 @@ Short % of Shares Outstanding 4,
 Shares Short (prior month ) 4,
 Forward Annual Dividend Rate 4,
 Forward Annual Dividend Yield 4,
-Trailing Annual Dividend Rate 3,
-Trailing Annual Dividend Yield 3,
+Trailing Annual Dividend Rate 3,0.56
+Trailing Annual Dividend Yield 3,0.05%
 5 Year Average Dividend Yield 4,
 Payout Ratio 4,
 Dividend Date 3,

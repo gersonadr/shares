@@ -9,7 +9,7 @@ Inventory,2718,2718,-3607,2127,-489.084
 Accounts Payable,-3680,-3680,6028,-2115,817.227
 Other working capital,239,239,1040,-120.892,1578
 Other non-cash items,116,116,-,-508.236,-331.115
-Net cash provided by operating activites,997,-,2444,806.245,3534
+Net cash provided by operating activites,997,997,2444,806.245,3534
 Investments in property plant and equipment,-758,-758,-1404,-927.137,-1956
 Acquisitions net,-,-,-,-,0
 Other investing activites,-,-,-,-,0
@@ -22,6 +22,6 @@ Net cash used privided by (used for) financing activities,-525,-525,-889,-38.594
 Net change in cash,-287,-287,168,510.365,267.317
 Cash at beginning of period,947,947,779,268.204,0.887
 Cash at end of period,660,660,947,778.569,268.204
-Operating Cash Flow,997,-,2444,806.245,3534
+Operating Cash Flow,997,997,2444,806.245,3534
 Capital Expenditure,-758,-758,-1404,-927.137,-1956
 Free Cash Flow,239,239,1040,-120.892,1578

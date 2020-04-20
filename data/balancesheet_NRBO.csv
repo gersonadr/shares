@@ -2,8 +2,8 @@ Breakdown,12/31/2019,12/31/2018,12/31/2017,12/31/2016
 Current Assets,,,,
 Cash,,,,
 Cash And Cash Equivalents,13908,18954,18473,24033
-Total Cash,-,18954,18473,24033
-Other Current Assets,-,17,25,0
+Total Cash,13908,18954,18473,24033
+Other Current Assets,42,17,25,0
 Total Current Assets,14118,19686,19009,24746
 Non-current assets,,,,
 Property plant and equipment,,,,
@@ -23,7 +23,7 @@ Non-current liabilities,,,,
 Long Term Debt,-,-,8683,-
 Other long-term liabilities,-,1,3,1
 Total non-current liabilities,94,1,8686,1
-Total Liabilities,-,96031,15076,4122
+Total Liabilities,2176,11920,15076,4122
 Stockholders' Equity,,,,
 Common Stock,16,22,18,17
 Retained Earnings,-36866,-84111,-60474,-27059

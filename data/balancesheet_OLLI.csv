@@ -22,7 +22,7 @@ Current Debt,273,238,10158,5077
 Accounts Payable,63223,77431,74206,50448
 Taxes payable,3906,7393,6035,4548
 Accrued liabilities,30834,35529,28281,30048
-Deferred revenues,-,10503,-,-
+Deferred revenues,9933,10503,-,-
 Total Current Liabilities,177685,150996,136726,104821
 Non-current liabilities,,,,
 Long Term Debt,527,441,38835,188923
@@ -31,7 +31,7 @@ Other long-term liabilities,6,9298,7103,5146
 Total non-current liabilities,359677,65355,105011,283293
 Total Liabilities,537362,216351,241737,388114
 Stockholders' Equity,,,,
-Common Stock,-,63,62,61
+Common Stock,64,63,62,61
 Retained Earnings,483571,342441,213019,85425
-Total stockholders' equity,-,942652,796462,651261
+Total stockholders' equity,1058885,942652,796462,651261
 Total liabilities and stockholders' equity,1596247,1159003,1038199,1039375

@@ -10,7 +10,7 @@ Property plant and equipment,,,,
 Gross property plant and equipment,19054,10986,8223,4652
 Accumulated Depreciation,-4403,-2781,-1335,-421
 Net property plant and equipment,14651,8205,6888,4231
-Other long-term assets,-,456,732,1499
+Other long-term assets,478,456,732,1499
 Total non-current assets,15129,8661,9187,5730
 Total Assets,46372,114088,90493,95261
 Liabilities,,,,
@@ -25,6 +25,6 @@ Total Liabilities,16955,12839,184065,133753
 Stockholders' Equity,,,,
 Common Stock,29,28,3,3
 Retained Earnings,-253538,-173762,-93562,-38495
-Accumulated other comprehensive income,-,-75,-13,0
+Accumulated other comprehensive income,0,-75,-13,0
 Total stockholders' equity,29417,101249,-93572,-38492
 Total liabilities and stockholders' equity,46372,114088,90493,95261

@@ -1,5 +1,8 @@
 Breakdown,12/31/2019,12/31/2018
 Current Assets,,
+Cash,,
+Cash And Cash Equivalents,336.27,147
+Total Cash,336.27,147
 Total Current Assets,379.187,147
 Non-current assets,,
 Equity and other investments,44694,-
@@ -13,4 +16,8 @@ Total Current Liabilities,197.454,228.363
 Non-current liabilities,,
 Total non-current liabilities,1332,0
 Total Liabilities,1529,228.363
+Stockholders' Equity,,
+Common Stock,38544,0.012
+Retained Earnings,-32.264,-0.863
+Total stockholders' equity,43544,24.137
 Total liabilities and stockholders' equity,45074,252.5
